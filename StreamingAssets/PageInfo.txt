@@ -1,4 +1,3 @@
-https://mail.google.com
-https://www.google.com
+https://raw.githubusercontent.com/Klentz37/Klentz37.github.io/main/StreamingAssets/FrontPageAssets/UserContact.vcf
 https://forms.gle/on1GSBjNvoJ9jVqw5
-instagram.com
+https://www.instagram.com
